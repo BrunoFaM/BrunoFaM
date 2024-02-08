@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Bruno Moron</h1>
 <h3 align="center">Programador web</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
